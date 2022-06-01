@@ -1,6 +1,11 @@
 i
 want
 to try
+<<<<<<< HEAD
 new string
-for test
+
+3.
+anothe string 
+in tomato
+
 
