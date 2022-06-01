@@ -1,3 +1,6 @@
 i
 want
 to try
+new string
+for test
+
