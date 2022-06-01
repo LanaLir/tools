@@ -1,11 +1,16 @@
 i
 want
 to try
-<<<<<<< HEAD
+
 new string
 
-3.
-anothe string 
+3. anothe string 
 in tomato
+
+
+string few
+today is
+june
+
 
 
